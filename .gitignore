@@ -1,0 +1,2 @@
+# ignore all pdf documents in the directory
+SGL Developments\Systems Engineering/Week 1/**/*.pdf
