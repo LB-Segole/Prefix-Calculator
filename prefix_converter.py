@@ -26,11 +26,3 @@ while True:
             print("Invalid number: Try again")
     except ValueError:
         print("Please enter a valid option")
-
-# base = prefixes
-# convert = number * base
-# print(convert)
-
-# for base in prefixes:
-#     convert = number * base
-# print(convert)
